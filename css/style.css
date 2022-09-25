@@ -11,16 +11,16 @@ ul.nav {list-style:none; float:right;}
 ul.nav li {float:left;}
 ul.nav li a {text-decoration:none; float:left; margin:0 40px 0 0; font-family: 'ProximaNovaSemibold'; color:#000;}
 ul.nav li:last-child a {margin:0 0px 0 0;}
-ul.nav li a:hover {color:#e51e25;}
-ul.nav li.active a{color:#e51e25;}
-.ph {float:right; font-family:'ProximaNovaBold'; font-size:20px; font-weight:normal; margin-top:20px; background-color:#e51e25; border-radius:9px; color:#FFF; padding:12px 15px; text-align:center;}
+ul.nav li a:hover {color:rgb(10, 10, 99);}
+ul.nav li.active a{color:rgb(10, 10, 99);}
+.ph {float:right; font-family:'ProximaNovaBold'; font-size:20px; font-weight:normal; margin-top:20px; background-color:rgb(10, 10, 99); border-radius:9px; color:#FFF; padding:12px 15px; text-align:center;}
 #boredr {width:100%; height:5px; clear:both; display:block; background:url(.index.htmlimages/boredr.jpg) repeat-x;}
 
 ul.fnav {list-style:none; float:left; margin-left:60px;}
 ul.fnav li {float:left;}
 ul.fnav li a {text-decoration:none; float:left; margin:0 40px 0 0; font-family: 'ProximaNovaSemibold'; color:#000;}
 ul.fnav li:last-child a {margin:0 0px 0 0;}
-ul.fnav li a:hover {color:#e51e25;}
+ul.fnav li a:hover {color:rgb(10, 10, 99);}
 
 .slider-wrap {position:relative; margin:50px auto 80px auto; width:1000px;}
 .slider {position: relative; width:900px; margin:auto;}
@@ -39,10 +39,10 @@ ul.slide li a img{ text-decoration:none; border:1px solid #f1f1f1; outline:none;
 .c6 {font-family: 'ProximaNovaSemibold'; font-weight:normal; font-size:30px; padding: 0 0 5px 0;}
 .c4 {font-family:'ProximaNovaRegular'; font-weight:normal; font-size:15px; padding:30px 0 0 0; line-height:20px;}
 .c7 {font-family:'ProximaNovaRegular'; font-weight:normal; font-size:15px; padding:30px 0 0 0; line-height:20px;}
-.c5 {border-bottom:1px solid #F00; width:20%;}
-.c8 {border-bottom:1px solid #F00; width:40%;}
+.c5 {border-bottom:1px solid rgb(10, 10, 99); width:20%;}
+.c8 {border-bottom:1px solid rgb(10, 10, 99); width:40%;}
 .c9 {width:100%; text-align:center; margin-top:10px;}
-#redcontent {width:100%; clear:both; background-color:#e51e25; padding:40px 0; margin:50px 0; float:left;}
+#redcontent {width:100%; clear:both; background-color:rgb(10, 10, 99); padding:40px 0; margin:50px 0; float:left;}
 #redcontent1 {text-align:center; margin:0 auto;}
 .line111 {text-align:center; font-family:'ProximaNovaBold'; color:#FFF; padding:0 0 1% 0; font-size:30px;}
 .line1 {text-align:center; font-family: 'ProximaNovaRegular'; font-weight:normal; color:#FFF; padding:0 0 20px 0; font-size:40px;}
@@ -52,33 +52,34 @@ ul.slide li a img{ text-decoration:none; border:1px solid #f1f1f1; outline:none;
 
 p.why {line-height:30px;}
 p.why a {text-decoration:none; color:#000; font-family: 'ProximaNovaSemiboldItalic';}
+p.margin {margin-top: 10px;font-size: large;}
 
 #footer {width:1000px; padding:2% 0 0; margin:0 auto;}
 .f1 {width:100%; max-width:455px; margin: 0 auto;}
 .f2 {width:100%; clear:both; font-family: 'ProximaNovaSemibold'; text-align:center; font-size:15px; color:#000; margin:50px 0 27px 0; float:left; font-weight:normal;}
-.f3 {width:100%; clear:both; font-size:15px; color:#7a7a7a; font-family: 'ProximaNovaRegular'; padding: 0 0 5px 0; text-align:center; font-weight:normal;}
-.f4 {width:100%; clear:both; font-size:15px; color:#7a7a7a; font-family: 'ProximaNovaRegular'; padding: 0 0 10px 0; text-align:center; font-weight:normal;}
+.f3 {width:100%; clear:both; font-size:15px; color:black; font-family: 'ProximaNovaRegular'; padding: 0 0 5px 0; text-align:center; font-weight:normal;}
+.f4 {width:100%; clear:both; font-size:15px; color:black; font-family: 'ProximaNovaRegular'; padding: 0 0 10px 0; text-align:center; font-weight:normal;}
 .ft{width:100%; font-size:12px; color:#000; margin-top:20px; padding:22px 0; border-top:1px solid #ececec; text-align:center; font-family: 'ProximaNovaRegular'; font-weight:normal;}
 .ft2{width:100%; font-size:12px; color:#000; margin:40px 0 0 0; padding:22px 0; border-top:1px solid #ececec; text-align:center; font-family: 'ProximaNovaRegular'; font-weight:normal; float:left; text-align:center;}
-.f5{width:100%; clear:both; font-size:14px; color:#7a7a7a; font-family:'ProximaNovaRegular'; padding:5px 0 15px 0; text-align:center; font-weight:normal;}
-.f5 a {color:#7a7a7a; text-decoration:none;}
+.f5{width:100%; clear:both; font-size:14px; color:black; font-family:'ProximaNovaRegular'; padding:5px 0 15px 0; text-align:center; font-weight:normal;}
+.f5 a {color:black; text-decoration:none;}
 
 #about{width:1000px; margin:0 auto;}
 
 .aline1 {font-family:'ProximaNovaSemibold'; font-size:30px; margin:50px 0 5px 0; font-weight:normal; text-align:center; margin-bottom: 5%;}
-.aline2 {border-bottom:1px solid #f00; width:10%; margin:0 auto; text-align:center;}
+.aline2 {border-bottom:1px solid rgb(10, 10, 99); width:10%; margin:0 auto; text-align:center;}
 .aline3 {text-align:center; font-weight:normal; font-family:'ProximaNovaLightItalic'; font-size:20px; width:800px; padding:30px 0 50px 0; margin:0 auto; line-height:25px;}
 .aline4 {width:100%; clear:both; margin:30px 0 50px 0; float:left;}
 .aline5 {width:435px; font-family: 'ProximaNovaRegular'; font-size:15px; float:left; margin-left:50px; line-height:20px;}
 .aline6 {width:435px; font-family: 'ProximaNovaRegular'; font-size:15px; float:left; margin-left:50px; line-height:20px;}
-.aline7 {width:60%; font-family: 'ProximaNovaRegular'; font-size:25px; float:center;margin-bottom: 2%;}
-.aline8 {width:80%; font-family: 'ProximaNovaRegular'; font-size:25px; float:center;margin-bottom: 2%;}
+.aline7 {width:60%; font-size:x-large; float:center; margin-bottom: 1%; margin-left:50px;}
+.aline8 {width:80%; font-size:x-large; float:center; margin-bottom: 1%; margin-left:50px;}
 
 
 .b1 {padding:30px 0; border-bottom:1px solid #ececec; border-top:1px solid #ececec; width:1000px; margin-bottom:50px; float:left;}
 .b2 {width:100%; margin:0 auto;}
 .b3 {font-family:'ProximaNovaSemibold'; font-size:30px; font-weight:normal; text-align:center;}
-.b4 {width:20%; margin:5px auto 0 auto; border-bottom:1px solid #F00;}
+.b4 {width:20%; margin:5px auto 0 auto; border-bottom:1px solid rgb(10, 10, 99);}
 
 .bdrtopnone {border-top:0px;}
 
@@ -94,7 +95,7 @@ p.why a {text-decoration:none; color:#000; font-family: 'ProximaNovaSemiboldItal
 .pro2 a img, .pro3 a img { text-decoration:none; border:0px; outline:none;}
 
 .ptext2 {float: right; width: 65px; padding:22px 0 0 0;}
-.ptext1 {float:left; font-family:'ProximaNovaRegular'; font-size:20px; color:#e51e25; padding:20px 0; width:75%;}
+.ptext1 {float:left; font-family:'ProximaNovaRegular'; font-size:20px; color:rgb(10, 10, 99); padding:20px 0; width:75%;}
 .v1 {width:1000px; clear:both; float:left; padding:50px 0; border-bottom:1px solid #ececec;}
 .v1last {width:1000px; clear:both; float:left; padding:50px 0 30px 0; border-bottom:0px solid #ececec;}
 .m1 {text-align:right;}
@@ -113,7 +114,7 @@ p.why a {text-decoration:none; color:#000; font-family: 'ProximaNovaSemiboldItal
 .footer2 {width:70%; float:left;}
 .footer3 {width:30%; float:left;}
 .footer4 {width:100%; padding:12px 0 50px; float:left;}
-.footer5 {width:100%; font-family: 'ProximaNovaSemibold'; font-size:14px; color:#e51e25; padding:0 0 12px 0; font-weight:normal;}
+.footer5 {width:100%; font-family: 'ProximaNovaSemibold'; font-size:14px; color:rgb(10, 10, 99); padding:0 0 12px 0; font-weight:normal;}
 .g1 a {font-family: 'ProximaNovaSemibold'; font-size:14px; font-weight:normal; width:75px;}
 .fe1 {font-size:14px; font-family: 'ProximaNovaSemibold'; font-weight:normal; color:#000; padding:2% 0 12px;}
 .fe2 {font-size:14px; font-family: 'ProximaNovaRegular'; color:#7a7a7a; padding:2% 0 12px;}
